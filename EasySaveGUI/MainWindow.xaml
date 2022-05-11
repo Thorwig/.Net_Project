@@ -1,0 +1,44 @@
+﻿<Window x:Class="EasySave.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EasySave"
+        mc:Ignorable="d"
+        Title="EasySave" Height="550" Width="800"
+        Icon="View/Icon.png"
+        ResizeMode="NoResize">
+    
+
+    <Grid x:Name="MainWindowGrid" Background="#FF171717">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="5*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="77*"/>
+            <RowDefinition Height="122*"/>
+            <RowDefinition Height="141*"/>
+            <RowDefinition Height="194*"/>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Column="0" TextBlock.TextAlignment="Center" Grid.ColumnSpan="2" x:Name="RunBackupJobButton" Content="{DynamicResource RunBackupJob}" FontSize="18" FontWeight="Bold" Click="RunBackupBtn" Background="#FFEEECEC" BorderBrush="Black" Style="{DynamicResource NavButton}"/>
+        <Button Grid.Column="2" TextBlock.TextAlignment="Center" x:Name="ManageBackupJobButton" Style="{DynamicResource NavButton}" Content="{DynamicResource ManageBackupJobs}"  FontSize="18" FontWeight="Bold" Click="ManageBackupBtn" Background="#FFEEECEC" BorderBrush="Black"/>
+        <Button Grid.Column="3" TextBlock.TextAlignment="Center" x:Name="NewBackupJobButton" Content="{DynamicResource NewBackupJob}"  FontSize="18" FontWeight="Bold" Click="NewBackupBtn" Background="#FFEEECEC" BorderBrush="Black" Style="{DynamicResource NavButton}"/>
+        <Button Grid.Column="4" TextBlock.TextAlignment="Center" Grid.ColumnSpan="2" x:Name="SettingsButton" Content="{DynamicResource Settings}"  FontSize="18" FontWeight="Bold" Click="SettingsBtn" Background="#FFEEECEC" BorderBrush="Black" Style="{DynamicResource NavButton}"/>
+
+        <TextBlock x:Name="WelcomeTextBlock" Text="{DynamicResource WelcomeToEasySave}" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="4" FontSize="35" Foreground="White" HorizontalAlignment="Center"  />
+        <TextBlock x:Name="VersionTextBlock" Text="Version 3.1.0" Grid.Row="3" Foreground="White" VerticalAlignment="Bottom" Grid.ColumnSpan="2"/>
+
+        <Frame x:Name="MainFrame" Grid.ColumnSpan="6" NavigationUIVisibility="Hidden" Grid.Row="1" Grid.RowSpan="3"/>
+        <Frame Grid.ColumnSpan="2" Grid.Row="0" Grid.Column="0" x:Name="ReturnBackupJobFrame" NavigationUIVisibility="Hidden"/>
+        <Frame Grid.Column="2" x:Name="ManageBackupJobFrame" NavigationUIVisibility="Hidden"/>
+        <Frame Grid.Column="3" x:Name="NewBackupJobFrame" NavigationUIVisibility="Hidden"/>
+        <Frame Grid.Column="4" Grid.ColumnSpan="2" x:Name="SettingsFrame" NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>

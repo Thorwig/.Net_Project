@@ -1,0 +1,83 @@
+﻿<Page x:Class="EasySave.View.NewBackupJobView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EasySave.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="NewBackupJobView">
+
+    <Grid x:Name="NewBackupJobGrid" Background="#FF171717">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="12*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="16*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="180*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="159*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="40*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="180*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="30*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock x:Name="NewBackupJobFieldTextBlock" Grid.Row="0" Text="" Foreground="White" FontSize="20" Grid.ColumnSpan="15" TextAlignment="Center"/>
+
+        <Button x:Name="CreateTheBackupJobButton" Grid.Column="7" Grid.Row="2" Content="{DynamicResource CreateTheBackupJob}" FontSize="20" FontWeight="Bold" Style="{DynamicResource Button}" TextBlock.TextAlignment="Center" Click="CreateTheBackupJobButton_Click"/>
+
+        <TextBlock x:Name="BackupJobNameTextBlock" TextBlock.TextAlignment="Center" Text="{DynamicResource BackupJobName}" Foreground="White" FontSize="16" Grid.Row="4" HorizontalAlignment="Center" Width="210" Grid.Column="1" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="SourceFolderTextBlock" TextBlock.TextAlignment="Center" Text="{DynamicResource SourceFolder}" Foreground="White" FontSize="16" Grid.Row="4" Grid.Column="7" HorizontalAlignment="Center" Width="199"/>
+        <TextBlock x:Name="DestinationFolderTextBlock" TextBlock.TextAlignment="Center" Foreground="White" FontSize="16" Grid.Row="4" Grid.Column="12" HorizontalAlignment="Center" Width="210" Text="{DynamicResource DestinationFolder}" Grid.ColumnSpan="2"/>
+
+        <TextBox x:Name="BackupJobNameTextBox" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="1" TextChanged="BackupJobNameTextBox_TextChanged" />
+
+        <Button x:Name="SourceFolderFileExplorerButton" Grid.Column="4" Grid.Row="5" Grid.RowSpan="3" Cursor="Hand" Style="{DynamicResource NoHoverButton}" Click="SourceFolderFileExplorerButton_Click" >
+            <Button.Background>
+                <ImageBrush ImageSource="/View/FileExplorer.png"/>
+            </Button.Background>
+        </Button>
+        <TextBox x:Name="SourceFolderTextBox" Grid.Row="6" Grid.ColumnSpan="3" Grid.Column="6"  IsReadOnly="True" TextChanged="SourceFolderTextBox_TextChanged"/>
+
+        <Button x:Name="DestinationFolderFileExplorerButton" Grid.Column="10" Grid.Row="5" Grid.RowSpan="3" Cursor="Hand" Style="{DynamicResource NoHoverButton}" Click="DestinationFolderFileExplorerButton_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="/View/FileExplorer.png"/>
+            </Button.Background>
+        </Button>
+
+
+        <TextBox x:Name="DestinationFolderTextBox" Grid.Row="6" Grid.ColumnSpan="2" Grid.Column="12"  IsReadOnly="True" TextChanged="DestinationFolderTextBox_TextChanged"/>
+
+        <TextBlock x:Name="BackupEncryptionTextBlock" TextBlock.TextAlignment="Right" Text="{DynamicResource BackupEncryption}" Foreground="White" FontSize="16" Grid.Row="9" Grid.ColumnSpan="3"/>
+        <TextBlock x:Name="NoneTextBlock" Text="{DynamicResource None}" Foreground="White" FontSize="16" Grid.Row="9" Grid.Column="4" Grid.ColumnSpan="3" HorizontalAlignment="Center"/>
+        <RadioButton x:Name="NoneRadioButton" Grid.Row="9" Grid.Column="6" VerticalAlignment="Center" GroupName="BackupEncryption" Grid.ColumnSpan="3" HorizontalAlignment="Right" Margin="0,0,20,0" Width="160" Checked="NoneRadioButton_Checked"/>
+        <TextBlock x:Name="SpecifiedExtensionsTextBlock" Text="{DynamicResource SpecifiedExtensions}" Foreground="White" FontSize="16" Grid.Row="9" Grid.Column="7" Grid.ColumnSpan="6" HorizontalAlignment="Center"/>
+        <RadioButton x:Name="SpecifiedExtensionsRadioButton" Grid.Row="9" Grid.Column="12" VerticalAlignment="Center" HorizontalAlignment="Center" GroupName="BackupEncryption" Checked="SpecifiedExtensionsRadioButton_Checked"/>
+
+        <TextBlock x:Name="BackupTypeTextBlock" TextBlock.TextAlignment="Right"  Text="{DynamicResource BackupType}" Foreground="White" FontSize="16" Grid.Row="11" Grid.ColumnSpan="3"/>
+        <TextBlock x:Name="FullTextBlock" Text="{DynamicResource Full}" Foreground="White" FontSize="16" Grid.Row="11" Grid.Column="4" Grid.ColumnSpan="3" HorizontalAlignment="Center"/>
+        <RadioButton x:Name="FullRadioButton" Grid.Row="11" Grid.Column="7" VerticalAlignment="Center" GroupName="BackupType" Checked="FullRadioButton_Checked"/>
+        <TextBlock x:Name="DifferentialTextBlock" Text="{DynamicResource Differential}" Foreground="White" FontSize="16" Grid.Row="11" Grid.Column="8" Grid.ColumnSpan="4" HorizontalAlignment="Center"/>
+        <RadioButton x:Name="DifferentialRadioButton" Grid.Row="11"  Grid.Column="12" VerticalAlignment="Center" HorizontalAlignment="Center" GroupName="BackupType" Checked="DifferentialRadioButton_Checked"/>
+    </Grid>
+</Page>

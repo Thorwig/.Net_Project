@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\EasySaveGUI.exe
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\EasySaveGUI.deps.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\EasySaveGUI.runtimeconfig.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\EasySaveGUI.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\Microsoft.Windows.SDK.NET.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\WinRT.Runtime.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\Newtonsoft.Json.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\Ookii.Dialogs.Wpf.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\EasySaveCore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\EasySaveCore.pdb

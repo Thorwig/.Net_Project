@@ -1,0 +1,12 @@
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\EasySaveGUI.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\clrcompression.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\clrjit.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\coreclr.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\mscordaccore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\D3DCompiler_47_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\PenImc_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\PresentationNative_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\vcruntime140_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\wpfgfx_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\EasySaveCore.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Release\net5.0-windows\publish\EasySaveGUI.exe

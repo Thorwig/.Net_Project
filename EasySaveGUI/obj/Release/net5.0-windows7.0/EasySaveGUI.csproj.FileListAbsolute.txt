@@ -1,0 +1,16 @@
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\EasySaveGUI.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\navButtonStyle.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\Properties\Dictionary-en-En.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\Properties\Dictionary-fr-Fr.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\Layouts\ManageBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\Layouts\NewBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\Layouts\RunBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\Layouts\SettingsBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\MainWindow.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\View\ManageBackupJobsView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\View\NewBackupJobView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\View\RunBackupJobView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\View\SettingsView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\App.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\EasySaveGUI_MarkupCompile.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows7.0\EasySaveGUI_MarkupCompile.lref

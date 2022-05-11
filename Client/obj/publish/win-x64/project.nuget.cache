@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gm50Xukeg/HEjHHICpY83Il1aVwvSiCHUXiiG5aKj3aLPkUqtXcuntMoCWWKCy6u+4z+v9UmlaUj5lncbuloKA==",
+  "success": true,
+  "projectFilePath": "D:\\Telchargements\\EasySave by ProSoft - Groupe 6\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\supersimpletcp\\2.6.0.7\\supersimpletcp.2.6.0.7.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.12\\microsoft.netcore.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\bin\Debug\net5.0\Encrypt.exe
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\bin\Debug\net5.0\Encrypt.deps.json
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\bin\Debug\net5.0\Encrypt.runtimeconfig.json
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\bin\Debug\net5.0\Encrypt.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\bin\Debug\net5.0\Encrypt.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\bin\Debug\net5.0\ref\Encrypt.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\bin\Debug\net5.0\Encrypt.pdb
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\ref\Encrypt.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.pdb
+C:\Users\victo\Desktop\Projet en cours\Autres\Encrypt-master\obj\Debug\net5.0\Encrypt.genruntimeconfig.cache

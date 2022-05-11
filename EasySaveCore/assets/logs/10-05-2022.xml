@@ -1,0 +1,128 @@
+<root type="array">
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 1</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 1</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">805624092</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:02.0991987</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 2</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 2</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">6</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2209067</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Encryption</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 4</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 4</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495616</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:02.5182727</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:02.2925621</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">0</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2221742</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 1</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 1</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">-1609553656</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:01.1888437</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 1</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 1</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">-1609553656</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:16.4869744</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 1</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 1</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">-1609553656</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:57.5524917</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 1</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 1</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">-1609553656</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:14.9367807</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 4</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 4</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495616</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.1131675</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Encryption</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 4</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 4</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495616</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.5325047</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00.3128283</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 4</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 4</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495616</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:40.9483488</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 1</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 1</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">-1609553656</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:55.4384890</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">0</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2153990</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">Backup Job 1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Source\Source 1</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\Destination\Destination 1</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">-1609553656</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:08.3514617</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+</root>

@@ -1,0 +1,12 @@
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\EasySaveGUI.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\clrcompression.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\clrjit.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\coreclr.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\mscordaccore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\D3DCompiler_47_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\PenImc_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\PresentationNative_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\vcruntime140_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\wpfgfx_cor3.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\EasySaveCore.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Release\net5.0-windows10.0.22000.0\publish\win-x64\EasySaveGUI.exe

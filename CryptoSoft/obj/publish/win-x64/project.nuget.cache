@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VZ5YYk1Fl5mqq40gnHKfwwN9Le0wvMXg28JqLw3/i+L+ftgo03qGeCeif6HlO/ft0Rj+6sx3rPsQY4reIVyTog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\EasySave - v3.0.0\\CryptoSoft\\CryptoSoft.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.12\\microsoft.netcore.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\victo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

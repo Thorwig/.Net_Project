@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "Full",
+    "SourcePath": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "DestinationPath": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Name": "Backup Job 1",
+    "IsEncrypted": "No"
+  },
+  {
+    "Type": "Differential",
+    "SourcePath": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 3",
+    "DestinationPath": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 3",
+    "Name": "Backup Job 3",
+    "IsEncrypted": "No"
+  },
+  {
+    "Type": "Full",
+    "SourcePath": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 4",
+    "DestinationPath": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 4",
+    "Name": "Encryption",
+    "IsEncrypted": "Yes"
+  }
+]

@@ -1,0 +1,20 @@
+﻿EasySaveGUI
+
+
+winexe
+C#
+.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\
+EasySaveGUI
+none
+false
+TRACE;DEBUG;NET;NET5_0;NETCOREAPP
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\App.xaml
+12-1114111933
+
+18-1892649344
+205872470131
+Layouts\ManageBackupBtnView.xaml;Layouts\NewBackupBtnView.xaml;Layouts\RunBackupBtnView.xaml;Layouts\SettingsBtnView.xaml;MainWindow.xaml;navButtonStyle.xaml;Properties\Dictionary-en-En.xaml;Properties\Dictionary-fr-Fr.xaml;View\ManageBackupJobsView.xaml;View\NewBackupJobView.xaml;View\RunBackupJobView.xaml;View\SettingsView.xaml;
+
+False
+

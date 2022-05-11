@@ -1,0 +1,11 @@
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\bin\Release\net5.0\win-x64\EasySaveCore.deps.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\bin\Release\net5.0\win-x64\EasySaveCore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\bin\Release\net5.0\win-x64\ref\EasySaveCore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\bin\Release\net5.0\win-x64\EasySaveCore.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\obj\Release\net5.0\win-x64\EasySaveCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\obj\Release\net5.0\win-x64\EasySaveCore.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\obj\Release\net5.0\win-x64\EasySaveCore.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\obj\Release\net5.0\win-x64\EasySaveCore.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\obj\Release\net5.0\win-x64\EasySaveCore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\obj\Release\net5.0\win-x64\ref\EasySaveCore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveCore\obj\Release\net5.0\win-x64\EasySaveCore.pdb

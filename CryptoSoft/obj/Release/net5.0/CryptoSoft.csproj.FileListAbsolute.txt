@@ -1,0 +1,31 @@
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\bin\Release\net5.0\CryptoSoft.exe
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\bin\Release\net5.0\CryptoSoft.deps.json
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\bin\Release\net5.0\CryptoSoft.runtimeconfig.json
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\bin\Release\net5.0\CryptoSoft.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\bin\Release\net5.0\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\bin\Release\net5.0\ref\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\bin\Release\net5.0\CryptoSoft.pdb
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\CryptoSoft.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\ref\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\CryptoSoft.pdb
+C:\Users\victo\Desktop\Projet en cours\Autres\CryptoSoft\obj\Release\net5.0\CryptoSoft.genruntimeconfig.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\bin\Release\net5.0\CryptoSoft.exe
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\bin\Release\net5.0\CryptoSoft.deps.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\bin\Release\net5.0\CryptoSoft.runtimeconfig.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\bin\Release\net5.0\CryptoSoft.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\bin\Release\net5.0\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\bin\Release\net5.0\ref\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\bin\Release\net5.0\CryptoSoft.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\ref\CryptoSoft.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\CryptoSoft\obj\Release\net5.0\CryptoSoft.genruntimeconfig.cache

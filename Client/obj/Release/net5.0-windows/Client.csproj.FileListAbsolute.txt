@@ -1,0 +1,48 @@
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\bin\Release\net5.0-windows\Client.exe
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\bin\Release\net5.0-windows\Client.deps.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\bin\Release\net5.0-windows\Client.runtimeconfig.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\bin\Release\net5.0-windows\Client.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\bin\Release\net5.0-windows\Client.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\bin\Release\net5.0-windows\Client.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\bin\Release\net5.0-windows\SuperSimpleTcp.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\MainWindow.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\App.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client_MarkupCompile.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client_MarkupCompile.lref
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\MainWindow.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.g.resources
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.csproj.CopyComplete
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\refint\Client.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\Client.genruntimeconfig.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\Client\obj\Release\net5.0-windows\ref\Client.dll
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.dll
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\ref\Client.dll
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.pdb
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\Client.exe
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\Client.deps.json
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\Client.runtimeconfig.json
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\Client.runtimeconfig.dev.json
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\Client.dll
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\ref\Client.dll
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\Client.pdb
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\bin\Release\net5.0-windows\SuperSimpleTcp.dll
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.csproj.AssemblyReference.cache
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\MainWindow.g.cs
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\App.g.cs
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client_MarkupCompile.cache
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client_MarkupCompile.lref
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\MainWindow.baml
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.g.resources
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.AssemblyInfoInputs.cache
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.AssemblyInfo.cs
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.csproj.CoreCompileInputs.cache
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.csproj.CopyComplete
+D:\Telchargements\EasySave by ProSoft - Groupe 6\Client\obj\Release\net5.0-windows\Client.genruntimeconfig.cache

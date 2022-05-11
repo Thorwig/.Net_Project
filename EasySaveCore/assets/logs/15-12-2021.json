@@ -1,0 +1,29 @@
+[
+  {
+    "Timestamp": "15-12-2021",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "495652",
+    "Save duration": "00:00:00.0691999",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "15-12-2021",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "495652",
+    "Save duration": "00:00:00.0831121",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "15-12-2021",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "495652",
+    "Save duration": "00:00:00.0895959",
+    "Encryption duration": "00:00:00"
+  }
+]

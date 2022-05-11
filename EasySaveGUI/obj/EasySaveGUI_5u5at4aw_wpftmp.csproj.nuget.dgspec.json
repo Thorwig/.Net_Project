@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveGUI\\EasySaveGUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveCore\\EasySaveCore.csproj": {
+      "version": "3.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveCore\\EasySaveCore.csproj",
+        "projectName": "EasySaveCore",
+        "projectPath": "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveCore\\EasySaveCore.csproj",
+        "packagesPath": "C:\\Users\\tests\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tests\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveGUI\\EasySaveGUI.csproj": {
+      "version": "3.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveGUI\\EasySaveGUI.csproj",
+        "projectName": "EasySaveGUI",
+        "projectPath": "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveGUI\\EasySaveGUI.csproj",
+        "packagesPath": "C:\\Users\\tests\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveGUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tests\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveCore\\EasySaveCore.csproj": {
+                "projectPath": "C:\\Users\\tests\\Documents\\Projet Csharp\\Livrable 3\\EasySave_by_ProSoft_-_Groupe_6\\EasySaveCore\\EasySaveCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

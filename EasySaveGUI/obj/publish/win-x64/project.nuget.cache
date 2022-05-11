@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKggOGzBOHkLekFkKegHQ00tjlFW1ikNVY7ogp+VAyXQtXIm5mrrjtsSNuZA+s5jUub0J5S1Mk/kPTcGEYNPvw==",
+  "success": true,
+  "projectFilePath": "D:\\Telchargements\\EasySave by ProSoft - Groupe 6\\EasySaveGUI\\EasySaveGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.0\\ookii.dialogs.wpf.5.0.0.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\supersimpletcp\\2.6.0.7\\supersimpletcp.2.6.0.7.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.12\\microsoft.netcore.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.12\\microsoft.aspnetcore.app.runtime.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\Mouad Nossair\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22000.21\\microsoft.windows.sdk.net.ref.10.0.22000.21.nupkg.sha512"
+  ],
+  "logs": []
+}

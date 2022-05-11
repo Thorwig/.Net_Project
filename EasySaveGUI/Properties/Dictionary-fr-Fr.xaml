@@ -1,0 +1,71 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+     xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- Main Window-->
+    <system:String x:Key="WelcomeToEasySave" >Bievenue sur EasySave par Prosoft</system:String>
+    <system:String x:Key="RunBackupJob" xml:space="preserve">Lancer un travail&#13;de sauvegarde</system:String>
+    <system:String x:Key="ManageBackupJobs" xml:space="preserve">Gérer les travaux&#13;de sauvegarde</system:String>
+    <system:String x:Key="NewBackupJob" xml:space="preserve">Nouveau travail de&#13;sauvegarde</system:String>
+    <system:String x:Key="Settings" >Paramètres</system:String>
+
+    <!-- Run a backup job-->
+
+    <system:String x:Key="RunSelectedBackupJob" xml:space="preserve">Lancer le travail&#13;séléctionné</system:String>
+    <system:String x:Key="RunAllBackupJobs" xml:space="preserve">Lancer tous les&#13;travaux</system:String>
+    <system:String x:Key="Progress" >Progression</system:String>
+
+    <!-- Manage backup jobs-->
+    <system:String x:Key="Modify">Modifier</system:String>
+    <system:String x:Key="Delete">Supprimer</system:String>
+
+    <!-- Create a backup job-->
+    <system:String x:Key="CreateTheBackupJob" xml:space="preserve">Créer le travail&#13;de sauvegarde</system:String>
+    <system:String x:Key="BackupJobName">Nom du travail :</system:String>
+    <system:String x:Key="SourceFolder">Dossier source :</system:String>
+    <system:String x:Key="DestinationFolder">Dossier de destination :</system:String>
+    <system:String x:Key="BackupEncryption">Chiffrement de la sauvegarde :</system:String>
+    <system:String x:Key="None">Aucun</system:String>
+    <system:String x:Key="SpecifiedExtensions">Extension spécifiés</system:String>
+    <system:String x:Key="BackupType">Type de sauvegarde :</system:String>
+    <system:String x:Key="Full">Complète</system:String>
+    <system:String x:Key="Differential">Différentiel</system:String>
+
+    <!-- Settings -->
+    <system:String x:Key="SoftwareExceptions">Exceptions logicielles :</system:String>
+    <system:String x:Key="Language">Langue :</system:String>
+    <system:String x:Key="LogFormat">Format des logs :</system:String>
+    <system:String x:Key="French">Francais</system:String>
+    <system:String x:Key="English">Anglais</system:String>
+    <system:String x:Key="ExtensionsToEncrypt">Extensions à chiffrer :</system:String>
+    <system:String x:Key=".XML">.XML</system:String>
+    <system:String x:Key=".JSON">.JSON</system:String>
+    <system:String x:Key="Add">Ajouter</system:String>
+    <system:String x:Key="Remove">Enlever</system:String>
+    <system:String x:Key="SaveParameters" xml:space="preserve">Sauvegardez les&#13;paramètres</system:String>
+    <system:String x:Key="MinimunSizeOfLargeFiles">Taille minimale des fichiers larges :</system:String>
+    <system:String x:Key="PriorityFiles">Fichiers prioritaires :</system:String>
+
+    <!-- Success/error -->
+
+    <system:String x:Key="RunBackupSuccess">Le travail de sauvegarde a été effectuer avec succès</system:String>
+    <system:String x:Key="NewBackupSuccess">Le travail de sauvegarde a été crée avec succès</system:String>
+    <system:String x:Key="NewBackupError">Une erreur inattendue s'est produite lors de la création du travail de sauvegarde, n'hésitez pas a contacter notre centre d'assistance technique : +33609079839</system:String>
+    <system:String x:Key="RunBackupError">Une erreur inattendue s'est produite lors de l'éxécution du travail de sauvegarde, n'hésitez pas a contacter notre centre d'assistance technique : +33609079839</system:String>
+    <system:String x:Key="RunAllBackupError">Une erreur inattendue s'est produite lors de l'écécutions des travaux de sauvegardes, n'hésitez pas a contacter notre centre d'assistance technique : +33609079839</system:String>
+    <system:String x:Key="DestinationFolderNotFoundError">Le dossier de destination n'existe pas ou n'est pas atteignable, veuillez entrer un dossier valide.</system:String>
+    <system:String x:Key="SourceFolderNotFoundError">Le dossier source n'existe pas ou n'est pas atteignable, veuillez entrer un dossier valide.</system:String>
+    <system:String x:Key="SourceFolderNoPermissionError">Vous n'avez pas la permission de copier ce dossier.</system:String>
+    <system:String x:Key="DestinationFolderNoPermissionError">Vous n'avez pas la permissions de copier dans ce dossier.</system:String>
+
+    <!-- DataGrid -->
+
+    <system:String x:Key="Name">Nom</system:String>
+    <system:String x:Key="Source">Source</system:String>
+    <system:String x:Key="Destination">Destination</system:String>
+    <system:String x:Key="IsEncrypted">Chiffré</system:String>
+    <system:String x:Key="Type">Type</system:String>
+    
+
+</ResourceDictionary>

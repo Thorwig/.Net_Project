@@ -1,0 +1,107 @@
+﻿<Page x:Class="EasySave.View.SettingsView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:EasySave.View"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="SettingsView">
+
+    <Grid x:Name="SettingsGrid" Background="#FF171717">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="22*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="42*"/>
+            <ColumnDefinition Width="98*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="77*"/>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition Width="74*"/>
+            <ColumnDefinition Width="20*"/>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="32*"/>
+            <ColumnDefinition Width="26*"/>
+            <ColumnDefinition Width="22*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="10*"/>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="16*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="17*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="21*"/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="14.579"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock x:Name="LogsFormatTextBlock" TextBlock.TextAlignment="Right" Grid.Row="1" Grid.Column="2" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16" Height="30" Width="236" Grid.ColumnSpan="4"><Run Text="{DynamicResource LogFormat}"/></TextBlock>
+        <TextBlock x:Name="XMLTextBlock" Grid.Row="1" Grid.Column="7" Text="{DynamicResource .XML}" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16" Height="21" Width="35" Margin="9,0,0,0" />
+        <CheckBox x:Name="XMLCheckBox" Grid.Row="1" Grid.Column="8" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16" Height="15" Width="16" Margin="12,3,0,0" />
+        <TextBlock x:Name="JSONTextBlock" Grid.Row="1" Grid.Column="11" Text="{DynamicResource .JSON}" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Left" FontSize="16" Height="21" Width="42" Margin="4,0,0,0"/>
+        <CheckBox x:Name="JSONCheckBox" Grid.Row="1" Grid.Column="13"  FontSize="16" Margin="2,3,27,12" />
+
+        <TextBlock x:Name="LanguageTextBlock" TextBlock.TextAlignment="Right" Grid.Row="2" Grid.Column="2" Text="{DynamicResource Language}" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Center" FontSize="16" Height="30" Width="236" Grid.ColumnSpan="4" Margin="0,3,0,0" Grid.RowSpan="2"/>
+
+        <TextBlock x:Name="SoftwareExceptionsTextBlock" TextBlock.TextAlignment="Center" Text="{DynamicResource SoftwareExceptions}" Foreground="White" Grid.Row="5" Grid.Column="2" FontSize="16" Grid.ColumnSpan="4" Margin="0,0,32,1"/>
+        <TextBlock x:Name="ExtensionsToEncryptTextBlock" TextBlock.TextAlignment="Center" Text="{DynamicResource ExtensionsToEncrypt}" Foreground="White" Grid.Row="5" Grid.Column="11" FontSize="16" VerticalAlignment="Center" HorizontalAlignment="Left" Height="29" Width="215" Grid.ColumnSpan="6"/>
+        <TextBox x:Name="SofwareExceptionsTextBox" Grid.Row="7" Grid.Column="2" Grid.ColumnSpan="4" Margin="10,0,32,0"/>
+        <TextBox x:Name="ExtensionsToEncryptTextBox" Grid.Row="7" Grid.Column="10" Grid.ColumnSpan="7" Margin="48,0,11,0"/>
+
+        <Button x:Name="SoftwareExceptionsAddButton" Grid.Column="3" Grid.Row="9" Content="{DynamicResource Add}" FontSize="20" FontWeight="Bold" Style="{DynamicResource Button}" Grid.ColumnSpan="3" Margin="32,0,98,17" Click="SoftwareExceptionsAddButton_Click" Grid.RowSpan="2"/>
+
+        <DataGrid x:Name="SofwareExceptionsDataGrid" Grid.Row="11" Grid.ColumnSpan="6" Margin="20,0,32,0">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="" Binding="{Binding Software}"  Width="200"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="ExtensionsToEncryptDataGrid" Grid.Row="11" Grid.Column="10" Grid.ColumnSpan="7" Margin="48,0,0,0">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="" Binding="{Binding Extensions}"  Width="200"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button x:Name="SaveParametersButton" Grid.Row="13" Grid.Column="6" Grid.ColumnSpan="4" Content="{DynamicResource SaveParameters}" FontSize="20" FontWeight="Bold" Style="{DynamicResource Button}" TextBlock.TextAlignment="Center" Click="SaveParametersButton_Click" />
+        <TextBlock x:Name="VersionTextBlock" Text="Version 3.1.0" Grid.Row="14" Foreground="White" VerticalAlignment="Center" Grid.ColumnSpan="3" Height="15" Margin="0,0,1,0"/>
+        <TextBlock x:Name="MinimunSizeOfLargeFilesTextBlock" TextBlock.TextAlignment="Right" Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="4" Foreground="White" FontSize="16" Margin="0,8,9,10" Grid.RowSpan="2"><Run Text="{DynamicResource MinimunSizeOfLargeFiles}"/></TextBlock>
+        <TextBox x:Name="MinimunSizeOfLargeFilesTextBox" Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="3" Margin="16,8,64,0" TextChanged="MinimunSizeOfLargeFilesTextBox_TextChanged"/>
+        <ComboBox x:Name="MinimunSizeOfLargeFilesComboBox" Grid.Column="8" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="80" Margin="5,8,0,0" Height="22" Grid.RowSpan="2" Grid.ColumnSpan="2">
+
+            <ComboBoxItem x:Name="MinimunSizeOfLargeFilesGoComboBoxItem" Content="Go"></ComboBoxItem>
+            <ComboBoxItem x:Name="MinimunSizeOfLargeFilesMoComboBoxItem" Content="Mo"></ComboBoxItem>
+        </ComboBox>
+        <TextBlock x:Name="PriorityFilesTextBlock" TextBlock.TextAlignment="Center" Foreground="White" Grid.Row="5" Grid.Column="5" FontSize="16" Grid.ColumnSpan="6" Margin="87,0,40,0"><Run Text="{DynamicResource PriorityFiles}"/></TextBlock>
+        <TextBox x:Name="PriorityFilesTextBox" Grid.Row="7" Grid.Column="5" Grid.ColumnSpan="6" Margin="87,0,40,0"/>
+        <Button x:Name="PriorityFilesAddButton" Grid.Column="7" Grid.Row="8" Content="{DynamicResource Add}" FontSize="20" FontWeight="Bold" Style="{DynamicResource Button}" Grid.ColumnSpan="2" Margin="36,15,26,2" Grid.RowSpan="2" Click="PriorityFilesAddButton_Click"/>
+        <DataGrid x:Name="PriorityFilesDataGrid" Grid.Row="11" Grid.ColumnSpan="6" Margin="87,0,40,0" Grid.Column="5">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn Header="" Binding="{Binding Software}"  Width="200"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="ExtensionsToEncryptAddButton" Grid.Column="11" Grid.Row="8" Content="{DynamicResource Add}" FontSize="20" FontWeight="Bold" Style="{DynamicResource Button}" Margin="67,15,20,2" Grid.ColumnSpan="4" Click="ExtensionsToEncryptAddButton_Click" Grid.RowSpan="2"/>
+        <ComboBox x:Name="LanguageComboBox" Grid.Column="6" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Center" Width="177" Margin="16,0,0,0" Height="22" Grid.ColumnSpan="4">
+
+            <ComboBoxItem x:Name="LanguageEnglishComboBoxItem" Content="{DynamicResource English}"/>
+            <ComboBoxItem x:Name="LanguageFrenchComboBoxItem" Content="{DynamicResource French}"/>
+        </ComboBox>
+
+    </Grid>
+</Page>

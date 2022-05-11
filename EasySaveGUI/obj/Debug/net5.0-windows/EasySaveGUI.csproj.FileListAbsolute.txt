@@ -1,0 +1,214 @@
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.exe
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.deps.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\navButtonStyle.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.lref
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\App.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.g.resources
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CopyComplete
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.genruntimeconfig.cache
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.exe
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.deps.json
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.json
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.dev.json
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.dll
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.pdb
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.AssemblyReference.cache
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\navButtonStyle.baml
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.g.cs
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.g.cs
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.g.cs
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.g.cs
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.cache
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.lref
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\App.baml
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.baml
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.baml
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.baml
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.baml
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.g.resources
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfoInputs.cache
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfo.cs
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CoreCompileInputs.cache
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CopyComplete
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\tests\Documents\Projet Csharp\Livrable 3\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.genruntimeconfig.cache
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.exe
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.deps.json
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.json
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.dev.json
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.dll
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.pdb
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.AssemblyReference.cache
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\navButtonStyle.baml
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.g.cs
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.g.cs
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.g.cs
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.g.cs
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.cache
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.lref
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\App.baml
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.baml
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.baml
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.baml
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.baml
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.g.resources
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfoInputs.cache
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfo.cs
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CoreCompileInputs.cache
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CopyComplete
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\Mouad Nossair\OneDrive - Association Cesi Viacesi mail\Bureau\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.genruntimeconfig.cache
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.AssemblyReference.cache
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\navButtonStyle.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.cache
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.lref
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.exe
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.deps.json
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.json
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.dev.json
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\ref\EasySaveGUI.dll
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.dll
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.pdb
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\App.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.g.resources
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfoInputs.cache
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfo.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CoreCompileInputs.cache
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CopyComplete
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.genruntimeconfig.cache
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\ManageBackupBtnView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\NewBackupBtnView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\RunBackupBtnView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\SettingsBtnView.g.cs
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\ManageBackupBtnView.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\NewBackupBtnView.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\RunBackupBtnView.baml
+C:\Users\tests\Desktop\EasySave_by_ProSoft_-_Groupe_6\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\SettingsBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\ManageBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\NewBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\RunBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\SettingsBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\ManageBackupBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\NewBackupBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\RunBackupBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\SettingsBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.Properties.Resources.resources
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\bin\Debug\net5.0-windows\Ookii.Dialogs.Wpf.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Properties\Dictionary-en-En.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.0.0\EasySaveGUI\obj\Debug\net5.0-windows\Properties\Dictionary-fr-Fr.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.exe
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.deps.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.runtimeconfig.dev.json
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\Ookii.Dialogs.Wpf.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\bin\Debug\net5.0-windows\EasySaveCore.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.AssemblyReference.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\navButtonStyle.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Properties\Dictionary-en-En.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Properties\Dictionary-fr-Fr.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\ManageBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\NewBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\RunBackupBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\SettingsBtnView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI_MarkupCompile.lref
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\App.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\ManageBackupBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\NewBackupBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\RunBackupBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\Layouts\SettingsBtnView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\ManageBackupJobsView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\NewBackupJobView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\RunBackupJobView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\View\SettingsView.baml
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.g.resources
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.Properties.Resources.resources
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.GenerateResource.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.AssemblyInfo.cs
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.csproj.CopyComplete
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\refint\EasySaveGUI.dll
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.pdb
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\EasySaveGUI.genruntimeconfig.cache
+C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Debug\net5.0-windows\ref\EasySaveGUI.dll

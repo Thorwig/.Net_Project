@@ -1,0 +1,128 @@
+[
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Files size": "805624092",
+    "Save duration": "00:00:02.0991987",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 2",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 2",
+    "Files size": "6",
+    "Save duration": "00:00:00.2209067",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Encryption",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 4",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 4",
+    "Files size": "495616",
+    "Save duration": "00:00:02.5182727",
+    "Encryption duration": "00:00:02.2925621"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 3",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 3",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 3",
+    "Files size": "0",
+    "Save duration": "00:00:00.2221742",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Files size": "-1609553656",
+    "Save duration": "00:01:01.1888437",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Files size": "-1609553656",
+    "Save duration": "00:01:16.4869744",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Files size": "-1609553656",
+    "Save duration": "00:00:57.5524917",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Files size": "-1609553656",
+    "Save duration": "00:01:14.9367807",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 3",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 4",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 4",
+    "Files size": "495616",
+    "Save duration": "00:00:00.1131675",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Encryption",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 4",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 4",
+    "Files size": "495616",
+    "Save duration": "00:00:00.5325047",
+    "Encryption duration": "00:00:00.3128283"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 4",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 4",
+    "Files size": "495616",
+    "Save duration": "00:00:40.9483488",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Files size": "-1609553656",
+    "Save duration": "00:00:55.4384890",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 3",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 3",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 3",
+    "Files size": "0",
+    "Save duration": "00:00:00.2153990",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "Backup Job 1",
+    "Source Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Source\\Source 1",
+    "Destination Path": "C:\\Users\\Mouad Nossair\\OneDrive - Association Cesi Viacesi mail\\Bureau\\Destination\\Destination 1",
+    "Files size": "-1609553656",
+    "Save duration": "00:01:08.3514617",
+    "Encryption duration": "00:00:00"
+  }
+]

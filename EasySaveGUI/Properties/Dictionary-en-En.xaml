@@ -1,0 +1,70 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+     xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- Main Window-->
+    <system:String x:Key="WelcomeToEasySave">Welcome to EasySave by Prosoft</system:String>
+    <system:String x:Key="RunBackupJob">Run a backup job</system:String>
+    <system:String x:Key="ManageBackupJobs">Manage backup jobs</system:String>
+    <system:String x:Key="NewBackupJob">New backup job</system:String>
+    <system:String x:Key="Settings">Settings</system:String>
+
+    <!-- Run a backup job-->
+
+    <system:String x:Key="RunSelectedBackupJob" xml:space="preserve">Run selected&#13;backup job</system:String>
+    <system:String x:Key="RunAllBackupJobs" xml:space="preserve">Run all&#13;backup jobs</system:String>
+    <system:String x:Key="Progress">Progress</system:String>
+
+    <!-- Manage backup jobs-->
+    <system:String x:Key="Modify">Modify</system:String>
+    <system:String x:Key="Delete">Delete</system:String>
+
+    <!-- Create a backup job-->
+    <system:String x:Key="CreateTheBackupJob" xml:space="preserve">Create the&#13;backup job</system:String>
+    <system:String x:Key="BackupJobName">Backup job's name :</system:String>
+    <system:String x:Key="SourceFolder">Source folder :</system:String>
+    <system:String x:Key="DestinationFolder">Destination folder :</system:String>
+    <system:String x:Key="BackupEncryption">Backup encryption :</system:String>
+    <system:String x:Key="None">None</system:String>
+    <system:String x:Key="SpecifiedExtensions">Specified extensions</system:String>
+    <system:String x:Key="BackupType">Backup type :</system:String>
+    <system:String x:Key="Full">Full</system:String>
+    <system:String x:Key="Differential">Differential</system:String>
+
+    <!-- Settings -->
+    <system:String x:Key="SoftwareExceptions">Software exceptions :</system:String>
+    <system:String x:Key="Language">Language :</system:String>
+    <system:String x:Key="LogFormat">Logs format :</system:String>
+    <system:String x:Key="French">French</system:String>
+    <system:String x:Key="English">English</system:String>
+    <system:String x:Key="ExtensionsToEncrypt">Extension to encrypt :</system:String>
+    <system:String x:Key=".XML">.XML</system:String>
+    <system:String x:Key=".JSON">.JSON</system:String>
+    <system:String x:Key="Add">Add</system:String>
+    <system:String x:Key="Remove">Remove</system:String>
+    <system:String x:Key="SaveParameters">Save parameters</system:String>
+    <system:String x:Key="MinimunSizeOfLargeFiles">Minimun size of large files :</system:String>
+    <system:String x:Key="PriorityFiles">Priority files :</system:String>
+
+    <!-- Success/error -->
+
+    <system:String x:Key="RunBackupSuccess">The backup job has succeceed</system:String>
+    <system:String x:Key="NewBackupSuccess">The backup job was created</system:String>
+    <system:String x:Key="NewBackupError">There was an unexpected error creating the backup job, please feel free to contact our technical assistance team : +33609079839</system:String>
+    <system:String x:Key="RunBackupError">There was an unexpected error running the backup job, please feel free to contact our technical assistance team : +33609079839</system:String>
+    <system:String x:Key="RunAllBackupError">There was an unexpected error running all the backup jobs, please feel free to contact our technical assistance team : +33609079839</system:String>
+    <system:String x:Key="DestinationFolderNotFoundError">The indicated destination folder does not exist, please try and enter a valid one.</system:String>
+    <system:String x:Key="SourceFolderNotFoundError">The indicated source folder does not exist, please try and enter a valid one.</system:String>
+    <system:String x:Key="SourceFolderNoPermissionError">You don't have the permission to copy this folder.</system:String>
+    <system:String x:Key="DestinationFolderNoPermissionError">You don't have the permission to copy in this folder.</system:String>
+
+    <!-- DataGrid -->
+
+    <system:String x:Key="Name">Name</system:String>
+    <system:String x:Key="Source">Source</system:String>
+    <system:String x:Key="Destination">Destination</system:String>
+    <system:String x:Key="IsEncrypted">Is encrypted</system:String>
+    <system:String x:Key="Type">Type</system:String>
+
+</ResourceDictionary>
